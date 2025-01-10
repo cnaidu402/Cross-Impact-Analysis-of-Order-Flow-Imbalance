@@ -1,0 +1,72 @@
+# Cross-Impact Analysis of Order Flow Imbalance (OFI)
+
+## Overview
+This project performs an analysis of selected stocks, including:
+- **Fubo TV**
+- **CNS Pharmaceuticals**
+- **Plug Power**
+- **Magic Empire**
+
+The analysis is conducted using Python and a Jupyter Notebook, leveraging various libraries for data manipulation and visualization.
+
+## Requirements
+The following Python packages are required to run this project. They are listed in the `requirements.txt` file:
+
+- pandas
+- numpy
+- (Add any other dependencies based on the notebook content)
+
+To install the dependencies, run:
+```bash
+pip install -r requirements.txt
+```
+
+## Instructions to Run the Analysis
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd your-repo-name
+   ```
+
+3. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook NoteBooks.ipynb
+   ```
+
+5. Run the cells sequentially to execute the analysis.
+
+## Description of the Analysis
+The analysis involves:
+- Importing and preprocessing stock data from CSV files.
+- Applying data manipulation techniques using pandas and numpy.
+- Performing exploratory data analysis (EDA) to understand trends and patterns.
+- Generating visualizations to highlight key insights.
+
+## Summary of Findings
+- **Fubo TV:** Key insights and trends.
+- **CNS Pharmaceuticals:** Notable observations.
+- **Plug Power:** Highlights of performance.
+- **Magic Empire:** Summary of trends.
+
+(Replace the placeholders with actual findings from the analysis.)
+
+## Notes
+- Ensure the required CSV files are placed in the correct directories as referenced in the notebook.
+- Modify the file paths in the notebook if needed to match your local setup.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+For questions or contributions, feel free to open an issue or submit a pull request!
+
