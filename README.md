@@ -14,7 +14,10 @@ The following Python packages are required to run this project. They are listed 
 
 - pandas
 - numpy
-- (Add any other dependencies based on the notebook content)
+- matplotlib
+- Seaborn
+- Sklearn
+- Scikit-learn
 
 To install the dependencies, run:
 ```bash
@@ -44,7 +47,6 @@ The analysis involves:
 - **Plug Power:** Highlights of performance.
 - **Magic Empire:** Summary of trends.
 
-(Replace the placeholders with actual findings from the analysis.)
 
 ## Notes
 - Ensure the required CSV files are placed in the correct directories as referenced in the notebook.
